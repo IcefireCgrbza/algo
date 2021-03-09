@@ -1,5 +1,6 @@
-package com.feimao.algo.sort;
+package com.feimao.algo;
 
+import com.feimao.algo.sort.Sort;
 import com.feimao.algo.sort.impl.BubbleSort;
 import com.feimao.algo.sort.impl.BucketSort;
 import com.feimao.algo.sort.impl.CountSort;
